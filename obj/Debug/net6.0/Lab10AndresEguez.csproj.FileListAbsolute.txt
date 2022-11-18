@@ -1,0 +1,15 @@
+C:\repos\C#\Lab10\Lab10AndresEguez\bin\Debug\net6.0\Lab10AndresEguez.exe
+C:\repos\C#\Lab10\Lab10AndresEguez\bin\Debug\net6.0\Lab10AndresEguez.deps.json
+C:\repos\C#\Lab10\Lab10AndresEguez\bin\Debug\net6.0\Lab10AndresEguez.runtimeconfig.json
+C:\repos\C#\Lab10\Lab10AndresEguez\bin\Debug\net6.0\Lab10AndresEguez.dll
+C:\repos\C#\Lab10\Lab10AndresEguez\bin\Debug\net6.0\Lab10AndresEguez.pdb
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.csproj.AssemblyReference.cache
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.AssemblyInfoInputs.cache
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.AssemblyInfo.cs
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.csproj.CoreCompileInputs.cache
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.dll
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\refint\Lab10AndresEguez.dll
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.pdb
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\Lab10AndresEguez.genruntimeconfig.cache
+C:\repos\C#\Lab10\Lab10AndresEguez\obj\Debug\net6.0\ref\Lab10AndresEguez.dll
